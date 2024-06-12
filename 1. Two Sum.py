@@ -4,11 +4,12 @@ class Solution:
         res = []
         for i in range(n):
             for j in range(n):
-                if (nums[i]+nums[j]==target) and (i!=j):
+                if (nums[i] + nums[j] == target) and (i != j):
                     res.append(i)
                     res.append(j)
                     return res
 
+
 # test
-a = Solution().twoSum([1,2,3,4,6], 7)
+a = Solution().twoSum([1, 2, 3, 4, 6], 7)
 print(a)
