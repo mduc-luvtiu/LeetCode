@@ -6,4 +6,4 @@
 * README.md - this file itself - using Markdown language
 
 
-### © 2024 Mai Duc | fb/maiduc2005
+### © 2024 Mai.Duc | fb/maiduc2005
